@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
-const myid = ['ID'];
-const prefix = ['$'];
+const myid = ['689100640370294857'];
+const prefix = ['%shakespear'];
 const client = new Discord.Client();
 const client2 = new Discord.Client();
 const client3 = new Discord.Client();
